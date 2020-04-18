@@ -9,7 +9,8 @@ This is a Custom Arabic Keyboard build with microsoft msi. Hope this keyboard mo
 
 ## Screenshot
 
-![ArabicKeyboard](https://i.imgur.com/KMl5jfo.jpg) (https://i.imgur.com/RKybUF5.jpg)
+![ArabicKeyboard](https://i.imgur.com/KMl5jfo.jpg)
+![ArabicKeyboard](https://i.imgur.com/RKybUF5.jpg)
 
 ## Download
 
