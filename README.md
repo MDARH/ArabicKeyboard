@@ -3,29 +3,18 @@
 [![GitHub release](https://img.shields.io/github/release/MDARH/ArabicKeyboard)](https://github.com/MDARH/ArabicKeyboard/releases)
 [![GitHub issues](https://img.shields.io/github/issues/MDARH/ArabicKeyboard)](https://github.com/MDARH/ArabicKeyboard/issues)
 [![license](https://img.shields.io/github/license/J2TeaM/idm-trial-reset.svg?maxAge=2592000)](https://github.com/MDARH/ArabicKeyboard/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mdarh411)](https://twitter.com/mdarh411)
 
 This is a Custom Arabic Keyboard build with microsoft msi. Hope this keyboard most easy to everyone. Cause maxmimum layout style match with English phrase.
 
 ## Screenshot
 
-![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
+![ArabicKeyboard](https://imgur.com/a/ZMgZwBb)
 
 ## Download
 
-You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
-
-## Credits
-
-- [idmresettrial](http://www.vn-zoom.com/8222251-idmresettrial/) (original author)
-- [Helge Klein](https://helgeklein.com/) (for SetACL)
+You can get the latest version [here](https://github.com/MDARH/ArabicKeyboard/releases/latest).
 
 ## License
 
 [MIT](LICENSE) License.
-
-
-Custom Arabic Keyboard
-
-
-https://img.shields.io/github/issues/MDARH/ArabicKeyboard
