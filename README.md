@@ -1,4 +1,4 @@
-# Arabic Custom Keyboard - Bangladesh
+# Arabic Custom Keyboard for Windows - Bangladesh
 
 [![GitHub release](https://img.shields.io/github/release/MDARH/ArabicKeyboard)](https://github.com/MDARH/ArabicKeyboard/releases)
 [![GitHub issues](https://img.shields.io/github/issues/MDARH/ArabicKeyboard)](https://github.com/MDARH/ArabicKeyboard/issues)
