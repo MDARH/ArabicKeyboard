@@ -19,7 +19,8 @@ Why Choose This Keyboard?
 
 We hope this keyboard makes your typing experience more comfortable and accessible! 💻🖋️
 
-
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpGnJRVZzPc?si=NugQKLPGBMvXk8PH" title="Best Arabic Keyboard for Windows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Screenshot
 
